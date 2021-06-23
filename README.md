@@ -1,6 +1,6 @@
-👋 Hello, I’m Andrey
+## 👋 Hello, I’m Andrey
 
-👀 I’m an expert full stack developer in Javascript/Typescript Web applications development.
+## 👀 I’m an expert full stack developer in Javascript/Typescript Web applications development.
 
 ## I'm a Senior Full Stack Web Developer and a Learner!
 
@@ -20,10 +20,10 @@
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="vue" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
 
-<br>
+<br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
 
-<br>
+<br />
 
 ![picture](https://github.com/andreygoldev/andreygoldev/blob/master/andrey.gif) <br />
