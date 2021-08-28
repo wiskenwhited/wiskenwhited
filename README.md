@@ -1,6 +1,6 @@
-## 👋 Hello, I’m Andrey
+## 👋 Hello, I’m Gevorg
 
-## 👀 I’m an expert full stack developer in Javascript/Typescript Web applications development.
+## 👀 I’m an expert full stack developer in Web/Mobile applications development.
 
 ## I'm a Senior Full Stack Web Developer and a Learner!
 
