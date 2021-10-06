@@ -13,6 +13,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="45px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/vue-js.svg" alt="vue" height="38px"/> </a>
+<a href="https://rubyonrails.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby on rails" height="38px"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./svgassets/flaskwhite.svg" alt="vue" height="38px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./svgassets/mongodb.svg" alt="vue" height="38px"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./svgassets/nodejs.svg" alt="vue" height="38px"/> </a>
