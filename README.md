@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Gevorg
+## 👋 Hello, I’m Dmytro
 
 ## 👀 I’m an expert full stack developer in Web/Mobile applications development.
 
