@@ -18,7 +18,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./svgassets/mongodb.svg" alt="mongodb" height="38px"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" height="38px"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./svgassets/nodejs.svg" alt="nodejs" height="38px"/> </a>
-<a href="https://golang.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" height="38px"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="netlify" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
 
