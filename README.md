@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Dmytro
+## 👋 Hello, I’m Wisken
 
 ## 👀 I’m an expert full stack developer in Web/Mobile applications development.
 
